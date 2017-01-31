@@ -24,6 +24,7 @@ is always end-to-end encrypted, we avoid Amazon and prefer self-hosted or noncom
 - Signal allows the user to send unencrypted text messages (SMS/MMS) and to place
 unencrypted calls. Cable discourages this, trying to adhere to the paradigm
 according to which *if it's on Cable, it's encrypted*.
+- Signal is not friendly towards third-party clients using their servers, Cable is.
 
 ## License
 
