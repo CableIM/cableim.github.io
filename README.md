@@ -11,6 +11,8 @@ other Cable users.
 
 Cable is based on Signal, but has some different goals.
 
+This is not a company, this is not a startup. This is a project.
+
 ## The problems with Signal
 
 These are the limitation of Signal this project tries to address:
