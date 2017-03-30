@@ -19,7 +19,7 @@ These are the limitation of Signal this project tries to address:
 
 - Signal is a centralized service, run by a single entity: Open Whisper Systems.
 Cable aims to build a network of federated, independent servers.
-- Signal has some proprietary dependencies both the server side and client side. These are removed in Cable.
+- The Signal client has some proprietary dependencies, these are removed in Cable.
 - Signal users Amazon S3 to store encrypted attachments. While everything
 is always end-to-end encrypted, we avoid Amazon and prefer self-hosted or noncommercial solutions.
 - Signal is not friendly towards third-party clients using their servers, Cable is.
